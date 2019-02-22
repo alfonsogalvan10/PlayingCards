@@ -1,0 +1,7 @@
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\bin\Debug\BarajadeCartas.exe.config
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\bin\Debug\BarajadeCartas.exe
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\bin\Debug\BarajadeCartas.pdb
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\obj\Debug\BarajadeCartas.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\obj\Debug\BarajadeCartas.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\obj\Debug\BarajadeCartas.exe
+C:\Users\Ruben\source\repos\BarajadeCartas\BarajadeCartas\obj\Debug\BarajadeCartas.pdb
